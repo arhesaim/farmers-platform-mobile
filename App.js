@@ -7,14 +7,14 @@ import {Ionicons} from '@expo/vector-icons';
 // Screens
 import LoginScreen from './screens/LoginScreen';
 import RegistrationScreen from './screens/RegistrationScreen';
-import SellerDashboard from './screens/seller/SellerDashboard';
-import AddProductScreen from './screens/seller/AddProductScreen';
+import SellerDashboard from './screens/seller/SellerDashboard';/ 
+import AddProductScreen from './screens/seller/AddProductScreen';/
 import ManageProductsScreen from './screens/seller/ManageProductsScreen';
-import SetAvailabilityScreen from './screens/seller/SetAvailabilityScreen';
-import BuyerDashboard from './screens/buyer/BuyerDashboard';
-import ProductDetailsScreen from './screens/buyer/ProductDetailsScreen';
-import CartScreen from './screens/buyer/CartScreen';
-import CheckoutScreen from './screens/buyer/CheckoutScreen';
+import SetAvailabilityScreen from './screens/seller/SetAvailabilityScreen';/
+import BuyerDashboard from './screens/buyer/BuyerDashboard';/
+import ProductDetailsScreen from './screens/buyer/ProductDetailsScreen';/
+import CartScreen from './screens/buyer/CartScreen';/
+import CheckoutScreen from './screens/buyer/CheckoutScreen';/
 import OrderConfirmationScreen from './screens/buyer/OrderConfirmationScreen';
 import ProfileScreen from './screens/ProfileScreen';
 
